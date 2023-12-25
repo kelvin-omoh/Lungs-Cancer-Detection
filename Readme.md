@@ -14,7 +14,7 @@ This project focuses on achieving superior accuracy in identifying lung cancer p
 
 Using machine learning techniques, our objective is to categorize individuals based on their lung cancer status, leveraging the 'Result' attribute in the dataset. A 'Result' value of 0 indicates the absence of lung cancer, while a value of 1 signifies its presence.
 
-## <u>Background</u>
+##  <u>Background</u>
 
 To perform KN algorithm and Decision Tree algorithm i use scikit-learn library. In the background of this project, used libraries are given below-:
 
