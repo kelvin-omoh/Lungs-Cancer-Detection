@@ -68,7 +68,7 @@ With an increased dataset and improved data balance, better results can be achie
 ## <u>References</u>
 - Dataset - Lung Cancer Dataset  (https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset?resource=download)
 Machine Learning Journal .
-- ML Algorithms (machinelearningmastery.com)
+- ML Algorithms (https://machinelearningmastery.com)
 - Scikit-Learn Library (scikit-learn.org)
 - Lung Cancer Detection (www.kaggle.com)
 - UCI Machine Learning repository (https://archive.ics.uci.edu/ml/index.php)
